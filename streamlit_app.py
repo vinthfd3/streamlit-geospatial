@@ -1,6 +1,7 @@
 import streamlit as st
 import leafmap.foliumap as leafmap
-
+import os
+os.system('python ox.py')
 st.set_page_config(layout="wide")
 
 st.sidebar.title("About")
